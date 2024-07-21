@@ -1,0 +1,4 @@
+text_column,int_column,float_column,mixed_column
+The cat jumps.,10,10.5,Text 100
+A dog runs.,20,20.25,Number 200
+Birds fly high.,30,30.75,Mixed 300.50

@@ -1,0 +1,64 @@
+text_column,int_column,float_column,mixed_column
+The cat jumps.,10,10.5,Text 100
+The cat jumps.,10,11.4,Text 100
+The cat cat jumps. cat,10,10.7,Text 100
+The The cat jumps. cat,10,10.6,Text 100
+The cat The jumps. jumps.,9,11.4,Text 100
+The cat jump.,10,10.0,Text 100
+The The cat cat jumps.,10,11.3,Text 100
+The quat jumps.,10,10.9,Text 100
+The jumps.,10,11.1,text hundred
+The cat jump.,10,10.4,Text 100
+The cat jumps. The jumps.,10,11.1,100
+cat The The cat jumps.,10,10.8,Text 100
+The cat jump.,9,9.6,Text 100
+The upchuck jumps.,10,11.5,100 100 Text 100
+The cat jumps.,10,11.1,school_text hundred
+cat jumps.,10,10.4,textbook C
+The jumps. The cat jumps.,11,11.4,Text Text Text 100
+The The cat jumps. jumps.,9,10.7,Text 100
+The quat jumps.,9,9.6,Text Text 100 Text
+The cat jump.,11,10.5,schoolbook 100
+The cat jumps.,10,10.6,textbook one_C
+A dog runs.,20,20.25,Number 200
+A A dog dog runs.,20,22.2,Number 200 200 200
+amp domestic_dog runs.,20,22.12,Number 200
+A dog runs. A dog,19,18.8,Number 200
+A dog runs.,21,18.61,Number 200
+angstrom_unit firedog runs.,19,21.14,Number Number Number 200
+A dog runs.,20,20.18,add_up 200
+A dog runs. runs. dog,19,18.95,Number 200
+ampere frank runs.,20,20.92,Number 200
+antiophthalmic_factor trail runs.,20,19.36,Number Number Number 200
+A dog runs.,21,20.73,200 Number 200 200
+adenine track runs.,20,19.16,Number 200
+A dog,20,22.23,Number 200
+dog A dog A runs.,22,18.47,Number 200
+A dog,20,18.93,total two_hundred
+adenine domestic_dog runs.,21,21.44,list cc
+deoxyadenosine_monophosphate heel runs.,22,20.01,Number 200
+A dog runs.,19,18.37,Number 200 200 200
+A dog runs.,19,21.92,Number 200
+A A dog A runs.,22,20.43,bit 200
+A A runs. dog runs.,21,20.22,Number 200
+Birds fly high.,30,30.75,Mixed 300.50
+Birds fly high. high. fly,32,28.81,fuse 300.50
+fly Birds Birds fly high.,31,30.17,300.50 Mixed 300.50 300.50
+raspberry vanish high.,29,31.98,Mixed 300.50
+Birds fly high.,29,32.14,Mixed 300.50
+The birds fly high.,29,32.0,Mixed 300.50
+The birds fly high.,30,31.88,Mixed 300.50
+Birds fly high.,29,28.41,Mixed 300.50
+Birds fly high.,31,28.09,miscellaneous 300.50
+fowl fly high.,27,31.3,Mixed 300.50
+The birds fly high.,29,29.97,Mixed 300.50
+birdwatch tent_flap high.,28,33.22,Mixed 300.50
+Birds Birds fly high. high.,33,31.07,Mixed 300.50
+Birds fly high.,30,31.86,Mixed 300.50
+Birds fly high. high. fly,29,28.72,conflate 300.50
+Birds fly fly high. Birds,32,31.9,Mixed 300.50
+high. Birds Birds fly high.,29,30.4,Mixed 300.50
+Birds fly fly high. Birds,32,31.3,Mixed 300.50
+Birds fly high.,33,28.63,Mixed 300.50
+Birds fly high.,29,30.85,Mixed 300.50 Mixed Mixed
+The birds fly high.,30,30.26,Mixed Mixed 300.50 Mixed
