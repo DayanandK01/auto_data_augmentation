@@ -33,7 +33,7 @@ Whether you're dealing with NLP tasks, computer vision, or numerical datasets â€
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AutoDataAugmentation.git
+   git clone https://github.com/DayanandK01/auto_data_augmentation.git
    cd AutoDataAugmentation
    ```
 2. **Install dependencis**
